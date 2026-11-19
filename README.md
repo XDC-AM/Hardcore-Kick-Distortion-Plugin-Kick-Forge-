@@ -119,6 +119,8 @@ Only `KickForge.dll` is required. No background image, theme file, or external r
 
 只需要 `KickForge.dll`，不需要背景图、主题文件或其他外部资源。
 
+Full guide / 完整指南: [docs/FL_STUDIO.md](docs/FL_STUDIO.md).
+
 ---
 
 ## 4. Quick start / 快速开始
@@ -178,8 +180,8 @@ Input
 
 Requirements / 环境要求:
 
-- Windows 10/11 x64.
-- PowerShell.
+- Windows 10/11 x64. / Windows 10/11 x64。
+- PowerShell. / PowerShell。
 - TinyCC 0.9.27 placed at `tools\tcc\tcc\tcc.exe`（not included in this repository / 本仓库不包含该编译器）.
 
 Build / 构建:
